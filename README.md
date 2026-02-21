@@ -19,8 +19,8 @@
 - `/autosail add2 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
 - `/autosail add3 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
 - `/autosail toggle` - 开启 / 关闭（背包装满回家存放）；
-- `/autosail dumpall` - 全部放入/保留一个
-- `/autosail delay %秒` - 设置放入物品的间隔时间
+- `/autosail dumpall` - 全部放入/保留一个；
+- `/autosail delay %秒` - 设置放入物品的间隔时间；
 - `/autosail respawn` - 开启 / 关闭（死亡自动重生并返回）；
 - `/autosail list` - 查看保存的配置。
 
