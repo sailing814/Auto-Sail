@@ -55,7 +55,7 @@
 - **微信/支付宝赞助**：
 <div align="center">
 <div style="display: inline-block; margin: 0 20px;">
-<img src="./images/wx.jpg" alt="微信赞助" width="150" />
+<img src="./images/wx.png" alt="微信赞助" width="150" />
 
 <small>微信赞助</small>
 </div>
