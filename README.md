@@ -45,9 +45,9 @@
   - 群号：`1067558374`
   - 或点击链接快速加入：[点击加入QQ群](https://qm.qq.com/q/RcnG8PGgcS)
   - 扫码加入：
-    <div align="center">
-      <img src="./images/qq.jpg" alt="QQ群二维码" width="200" />
-    </div>
+<div align="center">
+  <img src="./images/qq.jpg" alt="QQ群二维码" width="200" />
+</div>
 
 ## 赞助支持
 如果这个项目对您有帮助，欢迎赞助支持项目的持续开发和维护。
