@@ -54,12 +54,14 @@
 - **爱发电**：[点击支持](https://afdian.com/a/AutoSail)
 - **微信/支付宝赞助**：
 <div align="center">
-  <div style="display: inline-block; margin: 0 20px;">
-    <img src="./images/wx.png" alt="微信赞助" width="150"/><br>
+  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
+    <img src="./images/wx.png" alt="微信赞助" 
+         style="width: 150px; height: 150px; object-fit: contain;"/><br>
     <small>微信赞助</small>
   </div>
-  <div style="display: inline-block; margin: 0 20px;">
-    <img src="./images/zfb.jpg" alt="支付宝赞助" width="150"/><br>
+  <div style="display: inline-block; margin: 0 20px; vertical-align: top;">
+    <img src="./images/zfb.jpg" alt="支付宝赞助" 
+         style="width: 150px; height: 150px; object-fit: contain;"/><br>
     <small>支付宝赞助</small>
   </div>
 </div>
