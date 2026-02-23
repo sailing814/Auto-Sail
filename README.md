@@ -1,4 +1,8 @@
-# Auto Sail
+<div align="center">
+  <img src="https://ccvaults.com/thumbnails/20.%20Blocks/33.%20Workplaces/Chest.png" alt="Auto Sail" width="600"/>
+
+  <h1>Auto Sail</h1>
+</div>
 
 ## **介绍**
 
