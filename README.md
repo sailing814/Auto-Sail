@@ -46,18 +46,25 @@
   - 或点击链接快速加入：[点击加入QQ群](https://qm.qq.com/q/RcnG8PGgcS)
   - 扫码加入：
     <div align="center">
-      <img src="./images/qq.png" alt="QQ群二维码" width="200" />
+      <img src="./images/qq.jpg" alt="QQ群二维码" width="200" />
     </div>
 
 ## 赞助支持
 如果这个项目对您有帮助，欢迎赞助支持项目的持续开发和维护。
-
-- **GitHub Sponsors**：[点击成为赞助者](https://github.com/sponsors/你的GitHub用户名)
 - **爱发电**：[点击支持](https://afdian.com/a/AutoSail)
 - **微信/支付宝赞助**：
-  <div align="center">
-    <img src="./images/zz.png" alt="微信赞助" width="150" />
-  </div>
+<div align="center">
+<div style="display: inline-block; margin: 0 20px;">
+<img src="./images/wx.jpg" alt="微信赞助" width="150" />
+
+<small>微信赞助</small>
+</div>
+<div style="display: inline-block; margin: 0 20px;">
+<img src="./images/zfb.jpg" alt="支付宝赞助" width="150" />
+
+<small>支付宝赞助</small>
+</div>
+</div>
 
 ## 其他反馈方式
 - **电子邮件**：发送邮件至 `3145372042@qq.com`。
