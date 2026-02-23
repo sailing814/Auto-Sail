@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ccvaults.com/thumbnails/20.%20Blocks/33.%20Workplaces/Chest.png" alt="Auto Sail" width="150"/>
+  <img src="./images/Chest.png" alt="Auto Sail" width="150"/>
 
   <h1>Auto Sail</h1>
 </div>
@@ -11,7 +11,7 @@
 ## **教程**
 <div align="center">
   
-[![Auto Sail](https://i0.hdslb.com/bfs/archive/a3770ccf9bcaa47b8d6cc7c380190e0188f1ff29.jpg@308w_174h)](https://www.bilibili.com/video/BV1gHcszuEji/)
+[![Auto Sail](./images/1.jpg)](https://www.bilibili.com/video/BV1gHcszuEji/)
 <p>点击上方封面图观看演示视频</p>
 
 </div>
@@ -36,5 +36,32 @@
 - `/autosail delay %秒` - 设置放入物品的间隔时间；
 - `/autosail respawn` - 开启 / 关闭（死亡自动重生并返回）；
 - `/autosail list` - 查看保存的配置。
+
+# 反馈与支持
+如果你在使用过程中遇到问题、需要帮助或有任何建议，欢迎通过以下渠道联系我们。你的反馈可能将推动Auto Sail改进！
+
+## 加入交流群
+- **QQ群**：欢迎加入我们的QQ交流群，与开发者和其他用户直接交流。
+  - 群号：`1067558374`
+  - 或点击链接快速加入：[点击加入QQ群](https://qm.qq.com/q/RcnG8PGgcS)
+  - 扫码加入：
+    <div align="center">
+      <img src="./images/qq.png" alt="QQ群二维码" width="200" />
+    </div>
+
+## 赞助支持
+如果这个项目对您有帮助，欢迎赞助支持项目的持续开发和维护。
+
+- **GitHub Sponsors**：[点击成为赞助者](https://github.com/sponsors/你的GitHub用户名)
+- **爱发电**：[点击支持](https://afdian.com/a/AutoSail)
+- **微信/支付宝赞助**：
+  <div align="center">
+    <img src="./images/zz.png" alt="微信赞助" width="150" />
+  </div>
+
+## 其他反馈方式
+- **电子邮件**：发送邮件至 `3145372042@qq.com`。
+
+**感谢你的使用与支持！**
 
 ---
