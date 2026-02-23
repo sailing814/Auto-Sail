@@ -53,13 +53,13 @@
 如果这个项目对您有帮助，欢迎赞助支持项目的持续开发和维护。
 - **爱发电**：[点击支持](https://afdian.com/a/AutoSail)
 - **微信/支付宝赞助**：
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; flex-wrap: wrap;">
-  <div style="margin: 0 20px; text-align: center;">
-    <img src="./images/wx.png" alt="微信赞助" style="width:150px; height:150px; object-fit: contain;"/><br>
+<div align="center">
+  <div style="display: inline-block; margin: 0 20px;">
+    <img src="./images/wx.png" alt="微信赞助" width="150"/><br>
     <small>微信赞助</small>
   </div>
-  <div style="margin: 0 20px; text-align: center;">
-    <img src="./images/zfb.jpg" alt="支付宝赞助" style="width:150px; height:150px; object-fit: contain;"/><br>
+  <div style="display: inline-block; margin: 0 20px;">
+    <img src="./images/zfb.jpg" alt="支付宝赞助" width="150"/><br>
     <small>支付宝赞助</small>
   </div>
 </div>
