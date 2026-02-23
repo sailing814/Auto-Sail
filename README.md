@@ -10,8 +10,11 @@
 
 ## **教程**
 <div align="center">
+  
 [![Auto Sail](https://i0.hdslb.com/bfs/archive/a3770ccf9bcaa47b8d6cc7c380190e0188f1ff29.jpg@308w_174h)](https://www.bilibili.com/video/BV1gHcszuEji/)
+
 </div>
+
 
 ## **版本更新**
 
