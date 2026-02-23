@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://ccvaults.com/thumbnails/20.%20Blocks/33.%20Workplaces/Chest.png" alt="Auto Sail" width="200"/>
+  <img src="https://ccvaults.com/thumbnails/20.%20Blocks/33.%20Workplaces/Chest.png" alt="Auto Sail" width="150"/>
 
   <h1>Auto Sail</h1>
 </div>
