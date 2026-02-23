@@ -9,16 +9,7 @@
 配合 Baritone 自动挖矿模组使用的辅助工具，此模组能够实现背包装满后回家存放，并再次返回矿区。可在死亡后自动重生并返回矿区。
 
 ## **教程**
-<iframe 
-    src="//player.bilibili.com/player.html?bvid=BV1gHcszuEji&page=1"
-    width="100%" 
-    height="500" 
-    scrolling="no" 
-    border="0" 
-    frameborder="no" 
-    framespacing="0" 
-    allowfullscreen="true">
-</iframe>
+[![Auto Sail](https://i0.hdslb.com/bfs/archive/a3770ccf9bcaa47b8d6cc7c380190e0188f1ff29.jpg@308w_174h)](https://www.bilibili.com/video/BV1gHcszuEji/)
 
 ## **版本更新**
 
