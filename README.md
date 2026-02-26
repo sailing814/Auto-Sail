@@ -66,7 +66,7 @@
   - 新增背包放入切换，全部放入或保留一个原物品`/autosail dumpall`；
 - **v1.6 版本**：
   - 缩短固定指令延迟，并移除固定指令延迟聊天框输出显示；
-  - 移除add2中固定输出的`#stop`指令；
+  - 移除背包满后和死亡自动重生中后固定输出的`#stop`指令；
   - 优化自定义指令，可在`<指令1>`前添加延迟，例`/autosail add1 %秒 <指令1> %秒 <指令2> ...`；
   - 新增移动检测开关`/autosail movecheck toggle`；
   - 新增自定义移动频率检测指令`/autosail movecheck frequency <整数Tick>`；
