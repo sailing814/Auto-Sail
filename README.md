@@ -31,14 +31,19 @@
 - `/autosail add1 %秒 <指令1> %秒 <指令2> ...` - 设置包满回家指令；
 - `/autosail add2 %秒 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
 - `/autosail add3 %秒 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
-- `/autosail toggle` - 开启/关闭(背包装满回家存放)；
-- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)；
-- `/autosail movecheck toggle` - 开启/关闭移动检测；
-- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)；
-- `/autosail dumpall` - 全部放入/保留一个；
-- `/autosail delay %秒` - 设置放入物品的间隔时间；
-- `/autosail reset` - 重置所有配置到默认状态；
-- `/autosail list` - 查看保存的配置和状态。
+- `/autosail toggle` - 开启/关闭(背包装满回家存放)",
+- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)",
+- `/autosail invmode` - 切换背包检测模式(占满格子/堆叠满)",
+- `/autosail whitelist toggle` - 开启/关闭白名单过滤",
+- `/autosail whitelist add <id1> <id2>...` - 添加白名单物品",
+- `/autosail whitelist clear` - 清空白名单",
+- `/autosail whitelist frequency <整数>` - 设置白名单丢弃频率(Tick)",
+- `/autosail movecheck toggle` - 开启/关闭移动检测",
+- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)",
+- `/autosail dumpall` - 全部放入/保留一个",
+- `/autosail delay %秒` - 设置放入物品的间隔时间(死亡自动重生并返回)",
+- `/autosail reset` - 重置所有配置到默认状态",
+- `/autosail list` - 查看保存的配置和状态",
 
 <br>
 <br>
