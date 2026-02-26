@@ -25,6 +25,24 @@
 <br>
 <br>
 
+## **命令**
+
+- `/autosail help` - 获取AutoSail指令教程；
+- `/autosail add1 %秒 <指令1> %秒 <指令2> ...` - 设置包满回家指令；
+- `/autosail add2 %秒 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
+- `/autosail add3 %秒 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
+- `/autosail toggle` - 开启/关闭(背包装满回家存放)；
+- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)；
+- `/autosail movecheck toggle` - 开启/关闭移动检测；
+- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)；
+- `/autosail dumpall` - 全部放入/保留一个；
+- `/autosail delay %秒` - 设置放入物品的间隔时间；
+- `/autosail reset` - 重置所有配置到默认状态；
+- `/autosail list` - 查看保存的配置和状态。
+
+<br>
+<br>
+
 ## **版本更新**
 
 - **v1.0 版本**：
@@ -52,24 +70,6 @@
   - 新增背包检测模式`/autosail invmode`可切换占满格子检测或堆叠满检测；
   - 新增白名单功能`/autosail whitelist`可添加或清空白名单，非白名单的物品将自动扔出背包；
   - 新增自定义白名单扔出频率`/autosail whitelist frequency <整数>`。
-
-<br>
-<br>
-
-## **命令**
-
-- `/autosail help` - 获取AutoSail指令教程；
-- `/autosail add1 %秒 <指令1> %秒 <指令2> ...` - 设置包满回家指令；
-- `/autosail add2 %秒 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
-- `/autosail add3 %秒 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
-- `/autosail toggle` - 开启/关闭(背包装满回家存放)；
-- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)；
-- `/autosail movecheck toggle` - 开启/关闭移动检测；
-- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)；
-- `/autosail dumpall` - 全部放入/保留一个；
-- `/autosail delay %秒` - 设置放入物品的间隔时间；
-- `/autosail reset` - 重置所有配置到默认状态；
-- `/autosail list` - 查看保存的配置和状态。
 
 <br>
 <br>
