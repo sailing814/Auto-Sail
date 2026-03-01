@@ -27,7 +27,7 @@
 
 ## **Wiki**
 
-- `/autosail help` - 获取AutoSail指令教程。
+- `/autosail help`获取AutoSail指令教程。
 - `/autosail respawn`死亡自动重生后固定执行`add2`和`add3`中的指令；在`v1.6`版本移除了重生后固定输出的`#stop`指令。
 - `/autosail toggle`检测背包装满后固定执行`add1`和`add2`和`add4`中的指令；在`v1.6`版本移除了背包满后固定输出的`#stop`指令。
 - `%秒`可以设置小数点。
