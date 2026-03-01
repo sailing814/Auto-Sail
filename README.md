@@ -17,7 +17,7 @@
 ## **教程**
 <div align="center">
   
-[![Auto Sail](./images/1.jpg)](https://www.bilibili.com/video/BV1gHcszuEji/)
+[![Auto Sail](./images/1.jpg)](https://www.bilibili.com/video/BV1kZfeBmEWb/)
 <p>点击上方封面图观看演示视频</p>
 
 </div>
