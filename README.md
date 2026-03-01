@@ -25,25 +25,42 @@
 <br>
 <br>
 
+## **Wiki**
+
+- `/autosail help` - 获取AutoSail指令教程。
+- `/autosail respawn`死亡自动重生后固定执行`add2`和`add3`中的指令；在`v1.6`版本中移除了重生后固定输出的`#stop`指令。
+- `/autosail toggle`检测背包装满后固定执行`add1`和`add2`和`add4`中的指令；在`v1.6`版本中移除了背包满后固定输出的`#stop`指令。
+- `%秒`可以设置小数点。
+- Tick必须为`<整数>`；`20 Tick`为一秒；最大设置为`100 Tick`。
+- `/autosail whitelist <cmd>`开启白名单需要添加白名单物品，但打开后再清空白名单，你将获得一个什么都嫌弃的背包！
+- `/autosail movecheck toggle`在`%秒`中检测到玩家移动将重新执行上一条指令并继续进行`%秒`倒计时，`%秒`前面没有指令将再次进入`%秒`倒计时；如果你的传送会被移动打断(怪物攻击、水流、误触等)，可以尝试开启它，但它不一定每次都管用。
+- `/autosail invmode`背包检测模式为`占满格子`则只要背包中每个格子上都有物品就会检测为满；背包检测模式为`堆叠满`则需背包中所有格子的物品全部堆叠上限才能检测为满(模组或插件改的部分物品可能无法检测是否堆叠满)。
+- `/autosail dumpall`存放箱子的模式为`全部放入`则背包不会保留物品，将全部放入箱子；存放箱子的模式为`保留一个`则背包内会保留一个原来的物品，不会全部放入箱子。
+- `/autosail whitelist add <id1> <id2>...`按键盘F3+H设置为`高级提示框：显示`把鼠标放在物品上即可看到`物品ID`；支持模组物品！
+- `/autosail list`存储的配置文件保存在游戏的`config`文件夹中，名为`autosail.json`。
+
+<br>
+<br>
+
 ## **命令**
 
 - `/autosail help` - 获取AutoSail指令教程；
 - `/autosail add1 %秒 <指令1> %秒 <指令2> ...` - 设置包满回家指令；
 - `/autosail add2 %秒 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
 - `/autosail add3 %秒 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
-- `/autosail toggle` - 开启/关闭(背包装满回家存放)",
-- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)",
-- `/autosail invmode` - 切换背包检测模式(占满格子/堆叠满)",
-- `/autosail whitelist toggle` - 开启/关闭白名单过滤",
-- `/autosail whitelist add <id1> <id2>...` - 添加白名单物品",
-- `/autosail whitelist clear` - 清空白名单",
-- `/autosail whitelist frequency <整数>` - 设置白名单丢弃频率(Tick)",
-- `/autosail movecheck toggle` - 开启/关闭移动检测",
-- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)",
-- `/autosail dumpall` - 全部放入/保留一个",
-- `/autosail delay %秒` - 设置放入物品的间隔时间(死亡自动重生并返回)",
-- `/autosail reset` - 重置所有配置到默认状态",
-- `/autosail list` - 查看保存的配置和状态",
+- `/autosail toggle` - 开启/关闭(背包装满回家存放)"；
+- `/autosail respawn` - 开启/关闭(死亡自动重生并返回)"；
+- `/autosail invmode` - 切换背包检测模式(占满格子/堆叠满)"；
+- `/autosail whitelist toggle` - 开启/关闭白名单过滤"；
+- `/autosail whitelist add <id1> <id2>...` - 添加白名单物品"；
+- `/autosail whitelist clear` - 清空白名单"；
+- `/autosail whitelist frequency <整数>` - 设置白名单丢弃频率(Tick)"；
+- `/autosail movecheck toggle` - 开启/关闭移动检测"；
+- `/autosail movecheck frequency <整数>` - 设置检测频率(Tick)"；
+- `/autosail dumpall` - 全部放入/保留一个"；
+- `/autosail delay %秒` - 设置放入物品的间隔时间"；
+- `/autosail reset` - 重置所有配置到默认状态"；
+- `/autosail list` - 查看保存的配置和状态"。
 
 <br>
 <br>
