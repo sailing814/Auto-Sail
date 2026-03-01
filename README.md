@@ -29,7 +29,7 @@
 
 - `/autosail help`获取AutoSail指令教程。
 - `/autosail respawn`死亡自动重生后固定执行`add2`和`add3`中的指令；在`v1.6`版本移除了重生后固定输出的`#stop`指令。
-- `/autosail toggle`检测背包装满后固定执行`add1`和`add2`和`add4`中的指令；在`v1.6`版本移除了背包满后固定输出的`#stop`指令。
+- `/autosail toggle`检测背包装满后固定执行`add1``add2``add3`中的指令；在`v1.6`版本移除了背包满后固定输出的`#stop`指令。
 - `%秒`可以设置小数点。
 - Tick必须为`<整数>`；`20 Tick`为一秒；最大设置为`100 Tick`。
 - `/autosail whitelist <cmd>`开启白名单需要添加白名单物品，但打开后再清空白名单，你将获得一个什么都嫌弃的背包！
