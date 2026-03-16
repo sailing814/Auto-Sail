@@ -48,9 +48,11 @@
 - `/autosail add1 %秒 <指令1> %秒 <指令2> ...` - 设置包满回家指令；
 - `/autosail add2 %秒 <指令1> %秒 <指令2> ...` - 设置返回矿区指令；
 - `/autosail add3 %秒 <指令1> %秒 <指令2> ...` - 设置自动挖矿指令；
-- `/autosail toggle` - 开启/关闭(背包装满回家存放)"；
+- `/autosail toggle [次数]` - 开启/关闭(背包装满回家存放，带次数则循环指定次数)"；
 - `/autosail respawn` - 开启/关闭(死亡自动重生并返回)"；
 - `/autosail invmode` - 切换背包检测模式(占满格子/堆叠满)"；
+- `/autosail autocraft toggle` - 开启/关闭自动合成"；
+- `/autosail autocraft set <id>` - 设置自动合成目标(例如diamond_block)"；
 - `/autosail whitelist toggle` - 开启/关闭白名单过滤"；
 - `/autosail whitelist add <id1> <id2>...` - 添加白名单物品"；
 - `/autosail whitelist clear` - 清空白名单"；
@@ -91,7 +93,12 @@
 - **v1.7 版本**：
   - 新增背包检测模式`/autosail invmode`可切换占满格子检测或堆叠满检测；
   - 新增白名单功能`/autosail whitelist`可添加或清空白名单，非白名单的物品将自动扔出背包；
-  - 新增自定义白名单扔出频率`/autosail whitelist frequency <整数>`。
+  - 新增自定义白名单扔出频率`/autosail whitelist frequency <整数>`；
+- **v1.8 版本**：
+  - 新增`/autosail toggle [次数]`可设置回家存放返回的循环次数，需大于0的整数；
+  - 新增`/autosail autocraft toggle`开启或关闭自动合成，开启后会在寻找箱子存放前面执行自动合成；
+  - 新增`/autosail autocraft set <id>`设置合成目标，仅支持原版部分物品，并不需要输入前缀`minecraft:`如合成钻石块直接输入`diamond_block`即可。
+
 
 <br>
 <br>
