@@ -1,8 +1,8 @@
 <div align="center">
   <img src="./images/Chest.png" alt="Auto Sail" width="150"/>
 
-  <h1>Auto Sail</h1>
-  <h2>v1.8</h2>
+  <h1>Auto Sail</h1><h2>最新版本v1.8</h2>
+  <h2>最新版本v1.8</h2>
 </div>
 
 <br>
